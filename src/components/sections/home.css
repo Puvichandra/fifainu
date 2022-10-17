@@ -1,0 +1,33 @@
+#home{
+    background-image: url('../../assets/footballbg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5rem;
+    
+}
+
+.blackscreen{
+    background: rgba(0, 0, 0, 0.2);
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 0;
+}
+
+
+@media screen and (max-width: 450px){
+#home{
+    background-position: left;
+    /* background-position-y: bottom; */
+}
+}
+
+@media screen and (max-width: 330px){
+
+    #home{
+        padding-bottom: 2rem;
+        background-position: top;
+    }
+}

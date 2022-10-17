@@ -1,0 +1,20 @@
+.text__img{
+    /* background: red; */
+    transform: translateX(-8%);
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.text__img img{
+    width: 65%;
+}
+
+@media screen and (max-width: 770px){
+
+.text__img{
+    transform: translateX(0);
+    width: 100vw;
+}
+}
