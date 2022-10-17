@@ -177,7 +177,7 @@ const Footer = () => {
           <Item onClick={() => scrollTo('roadmap')}  >Roadmap</Item>
           {/* <Item onClick={() => scrollTo('showcase')}  >Showcase</Item> */}
           <Item onClick={() => scrollTo('faq')}  >Tokenomics</Item>
-          <Item onClick={() => scrollTo('team')}  >Team</Item>
+//           <Item onClick={() => scrollTo('team')}  >Team</Item>
 
     </MenuItems>
       </Container>
