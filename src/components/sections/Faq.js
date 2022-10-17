@@ -101,12 +101,12 @@ const Faq = () => {
     <Container>
 
 <Box>
-  <Accordion ScrollTrigger={ScrollTrigger} title="BUY TAX 8%" >
+  <Accordion ScrollTrigger={ScrollTrigger} title="BUY TAX 9%" >
   Operations 2%
   <br></br>
   <br></br>
 
-  Marketing/Treasury 5%
+  Marketing/Treasury 6%
 
   <br></br>
   <br></br>
@@ -121,12 +121,12 @@ const Faq = () => {
   </Accordion> */}
 </Box>
 <Box>
-<Accordion ScrollTrigger={ScrollTrigger} title="SELL TAX 8%" >
+<Accordion ScrollTrigger={ScrollTrigger} title="SELL TAX 9%" >
 Operations 2%
   <br></br>
   <br></br>
 
-  Marketing/Treasury 5%
+  Marketing/Treasury 6%
 
   <br></br>
   <br></br>
