@@ -54,7 +54,7 @@ const SubTitle = styled.h3`
   position: relative;
 
   @media (max-width: 40em) {
-    font-size: ${(props) => props.theme.fontmd};
+    font-size: ${(props) => props.theme.fontsm};
 
   }
 
