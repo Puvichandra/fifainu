@@ -12,6 +12,8 @@ const Title = styled.h2`
   color: ${(props) => props.theme.text};
   align-self: flex-start;
   position: relative;
+    font-family: monospace;
+
 
   span {
     text-transform: uppercase;
