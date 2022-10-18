@@ -144,6 +144,7 @@ const Footer = () => {
       <Container>
     <Left> 
     <Logo />
+    info@fifainubsc.com
     <IconList>
       {/* <a href="http://facebook.com" target='_blank' 
       rel="noopener noreferrer"
